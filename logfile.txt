@@ -1,0 +1,324 @@
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='ali' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' 2022/05/14 16:27:51
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' 2022/05/14 16:29:20
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' 2022/05/14 16:35:51
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' 2022/05/14 16:36:30
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' 2022/05/14 16:37:08
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='moha' 2022/05/14 16:37:08
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='moha' 2022/05/14 16:37:08
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/14 16:41:30
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='moha' On: 2022/05/14 16:41:30
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='moha' On: 2022/05/14 16:41:30
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='ali' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/14 16:43:36
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='ali' On: 2022/05/14 16:43:36
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='ali' On: 2022/05/14 16:43:36
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (3,'Chicken Wings','30$',9) On: 2022/05/14 16:43:42
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (2,'Pizza','120$',9) On: 2022/05/14 16:43:50
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='ali' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/14 17:51:49
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='ali' On: 2022/05/14 17:51:49
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='ali' On: 2022/05/14 17:51:49
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='ali' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/14 17:55:54
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='ali' On: 2022/05/14 17:55:54
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='ali' On: 2022/05/14 17:55:54
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='ali' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/14 17:56:56
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='ali' On: 2022/05/14 17:56:56
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='ali' On: 2022/05/14 17:56:56
+com.mysql.cj.jdbc.ClientPreparedStatement: update user set  address = 'UK',email = 'ali12@gmail.com' ,password = '30a3763982951c2b6b0a1cd853a17f2f' where password = '30a3763982951c2b6b0a1cd853a17f2f' or password = '123' and id = 5  On: 2022/05/14 17:57:17
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='ali' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/14 17:59:39
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='ali' On: 2022/05/14 17:59:39
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='ali' On: 2022/05/14 17:59:39
+com.mysql.cj.jdbc.ClientPreparedStatement: update user set  address = 'USA',email = 'ali123@hotmail.com' ,password = '30a3763982951c2b6b0a1cd853a17f2f' where password = '30a3763982951c2b6b0a1cd853a17f2f' or password = '123' and id = 5  On: 2022/05/14 17:59:52
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='anas' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/14 18:03:05
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='anas' On: 2022/05/14 18:03:05
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='anas' On: 2022/05/14 18:03:05
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/14 18:06:05
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='moha' On: 2022/05/14 18:06:05
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='moha' On: 2022/05/14 18:06:05
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/14 18:08:26
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='moha' On: 2022/05/14 18:08:26
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='moha' On: 2022/05/14 18:08:26
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/14 18:09:47
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='moha' On: 2022/05/14 18:09:47
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='moha' On: 2022/05/14 18:09:47
+com.mysql.cj.jdbc.ClientPreparedStatement: update user set  address = 'Japan',email = 'mmm@gmail.com' ,password = '30a3763982951c2b6b0a1cd853a17f2f' where password = '30a3763982951c2b6b0a1cd853a17f2f' or password = '123' and id = 2  On: 2022/05/14 18:09:54
+
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/14 18:53:23
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='moha' On: 2022/05/14 18:53:23
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='moha' On: 2022/05/14 18:53:23
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/14 18:54:22
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='moha' On: 2022/05/14 18:54:22
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='moha' On: 2022/05/14 18:54:22
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/14 18:55:28
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='moha' On: 2022/05/14 18:55:28
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='moha' On: 2022/05/14 18:55:28
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/14 18:55:59
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='moha' On: 2022/05/14 18:55:59
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='moha' On: 2022/05/14 18:55:59
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/14 18:56:07
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (5,'Pasta','320$',5) On: 2022/05/14 18:56:12
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO orders VALUES (0,2,5,'2022/05/14_18:56:18','No') On: 2022/05/14 18:56:14
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/14 18:56:20
+com.mysql.cj.jdbc.ClientPreparedStatement: select itemId,itemName,itemPrice from cart where cart_id = '5' On: 2022/05/14 18:56:30
+com.mysql.cj.jdbc.ClientPreparedStatement: delete from cart where itemId = 5  On: 2022/05/14 18:56:30
+com.mysql.cj.jdbc.ClientPreparedStatement: select itemId,itemName,itemPrice from cart where cart_id = '5' On: 2022/05/14 18:56:30
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user ORDER BY id DESC LIMIT 1 On: 2022/05/14 18:56:53
+com.mysql.cj.jdbc.ClientPreparedStatement: insert into user values(7,'new','new@gmail.com','f47ebdd1ac211b217ca85335efcd91a2','+97426455','usa',0) On: 2022/05/14 18:56:53
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='new' AND password='f47ebdd1ac211b217ca85335efcd91a2' or password ='new123' On: 2022/05/14 18:57:13
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='new' On: 2022/05/14 18:57:13
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='new' On: 2022/05/14 18:57:13
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/14 18:57:31
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/14 18:59:58
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='moha' On: 2022/05/14 18:59:58
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='moha' On: 2022/05/14 18:59:58
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/14 19:00:32
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='moha' On: 2022/05/14 19:00:32
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='moha' On: 2022/05/14 19:00:32
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/14 19:01:29
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/14 22:59:23
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='moha' On: 2022/05/14 22:59:23
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='moha' On: 2022/05/14 22:59:23
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/14 22:59:50
+com.mysql.cj.jdbc.ClientPreparedStatement: select itemId,itemName,itemPrice from cart where cart_id = '5' On: 2022/05/14 23:00:00
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/15 11:06:06
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='moha' On: 2022/05/15 11:06:06
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='moha' On: 2022/05/15 11:06:06
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (8,'Knafeh','1200$',5) On: 2022/05/15 11:06:16
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='test' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/15 11:06:30
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='test' On: 2022/05/15 11:06:30
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='test' On: 2022/05/15 11:06:30
+com.mysql.cj.jdbc.ClientPreparedStatement: select itemId,itemName,itemPrice from cart where cart_id = '5' On: 2022/05/15 11:06:47
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='ali' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/15 11:07:35
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='ali' On: 2022/05/15 11:07:35
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='ali' On: 2022/05/15 11:07:35
+com.mysql.cj.jdbc.ClientPreparedStatement: select itemId,itemName,itemPrice from cart where cart_id = '9' On: 2022/05/15 11:07:52
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='ali' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/15 11:08:08
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='ali' On: 2022/05/15 11:08:08
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='ali' On: 2022/05/15 11:08:08
+com.mysql.cj.jdbc.ClientPreparedStatement: select itemId,itemName,itemPrice from cart where cart_id = '9' On: 2022/05/15 11:08:16
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='ali' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/15 11:11:50
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='ali' On: 2022/05/15 11:11:50
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='ali' On: 2022/05/15 11:11:50
+com.mysql.cj.jdbc.ClientPreparedStatement: select itemId,itemName,itemPrice from cart where cart_id = '9' On: 2022/05/15 11:12:01
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/15 11:18:30
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='moha' On: 2022/05/15 11:18:30
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='moha' On: 2022/05/15 11:18:30
+com.mysql.cj.jdbc.ClientPreparedStatement: select itemId,itemName,itemPrice from cart where cart_id = '5' On: 2022/05/15 11:18:42
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/15 11:23:05
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/15 11:24:18
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='moha' On: 2022/05/15 11:24:18
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='moha' On: 2022/05/15 11:24:18
+com.mysql.cj.jdbc.ClientPreparedStatement: select itemId,itemName,itemPrice from cart where cart_id = '5' On: 2022/05/15 11:24:28
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user ORDER BY id DESC LIMIT 1 On: 2022/05/15 11:36:20
+com.mysql.cj.jdbc.ClientPreparedStatement: insert into user values(8,'moha','moha@gmail.com','30a3763982951c2b6b0a1cd853a17f2f','+488754887','gaza',0) On: 2022/05/15 11:36:20
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/15 11:36:38
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='moha' On: 2022/05/15 11:36:38
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='moha' On: 2022/05/15 11:36:38
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (1,'Burger','50$',0) On: 2022/05/15 11:36:43
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (4,'Fries','80$',0) On: 2022/05/15 11:36:53
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/15 11:36:56
+com.mysql.cj.jdbc.ClientPreparedStatement: select itemId,itemName,itemPrice from cart where cart_id = '0' On: 2022/05/15 11:36:59
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (2,'Pizza','120$',0) On: 2022/05/15 11:37:09
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user ORDER BY id DESC LIMIT 1 On: 2022/05/15 12:52:26
+com.mysql.cj.jdbc.ClientPreparedStatement: insert into user values(9,'test12','t@gmail.com','30a3763982951c2b6b0a1cd853a17f2f','+684685651658','gaza',1) On: 2022/05/15 12:52:26
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='root' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/15 13:02:12
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='root' On: 2022/05/15 13:02:12
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='root' On: 2022/05/15 13:02:12
+com.mysql.cj.jdbc.ClientPreparedStatement: select itemId,itemName,itemPrice from cart where cart_id = '1' On: 2022/05/15 13:02:26
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user ORDER BY id DESC LIMIT 1 On: 2022/05/15 14:19:51
+com.mysql.cj.jdbc.ClientPreparedStatement: insert into user values(2,'moha','erbbr','30a3763982951c2b6b0a1cd853a17f2f','55555555','aa',0) On: 2022/05/15 14:19:51
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/15 14:20:02
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='moha' On: 2022/05/15 14:20:02
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='moha' On: 2022/05/15 14:20:02
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/15 14:21:05
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='moha' On: 2022/05/15 14:21:05
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='moha' On: 2022/05/15 14:21:05
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/15 14:22:03
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='moha' On: 2022/05/15 14:22:03
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='moha' On: 2022/05/15 14:22:03
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/15 14:26:15
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='moha' On: 2022/05/15 14:26:15
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='moha' On: 2022/05/15 14:26:15
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/15 14:27:25
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='moha' On: 2022/05/15 14:27:25
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='moha' On: 2022/05/15 14:27:25
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/15 14:29:27
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='moha' On: 2022/05/15 14:29:27
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='moha' On: 2022/05/15 14:29:27
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/15 14:30:05
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='moha' On: 2022/05/15 14:30:05
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='moha' On: 2022/05/15 14:30:05
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/15 14:31:39
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='moha' On: 2022/05/15 14:31:39
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='moha' On: 2022/05/15 14:31:39
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (1,'Burger','50$',3) On: 2022/05/15 14:31:45
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (2,'Pizza','120$',3) On: 2022/05/15 14:31:49
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (3,'Chicken Wings','30$',3) On: 2022/05/15 14:31:52
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/15 14:32:29
+com.mysql.cj.jdbc.ClientPreparedStatement: select itemId,itemName,itemPrice from cart where cart_id = '3' On: 2022/05/15 14:32:32
+com.mysql.cj.jdbc.ClientPreparedStatement: select itemId,itemName,itemPrice from cart where cart_id = '3' On: 2022/05/15 14:32:37
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/15 14:34:32
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='moha' On: 2022/05/15 14:34:32
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='moha' On: 2022/05/15 14:34:32
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/15 14:37:31
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='moha' On: 2022/05/15 14:37:31
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='moha' On: 2022/05/15 14:37:31
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/15 14:37:55
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/15 14:38:53
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='moha' On: 2022/05/15 14:38:53
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='moha' On: 2022/05/15 14:38:53
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/15 14:39:37
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='moha' On: 2022/05/15 14:39:37
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='moha' On: 2022/05/15 14:39:37
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/15 14:39:50
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/15 14:40:44
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='moha' On: 2022/05/15 14:40:44
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='moha' On: 2022/05/15 14:40:44
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/15 14:42:07
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='moha' On: 2022/05/15 14:42:07
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='moha' On: 2022/05/15 14:42:07
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO orders VALUES (0,3,3,'2022/05/15_14:42:14','No') On: 2022/05/15 14:42:13
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/15 14:42:17
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='root' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/15 14:43:31
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='root' On: 2022/05/15 14:43:31
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='root' On: 2022/05/15 14:43:31
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (1,'Burger','50$',2) On: 2022/05/15 14:43:38
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (4,'Fries','80$',2) On: 2022/05/15 14:43:41
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO orders VALUES (0,2,2,'2022/05/15_14:43:44','No') On: 2022/05/15 14:43:43
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/15 14:43:46
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user ORDER BY id DESC LIMIT 1 On: 2022/05/15 14:49:11
+com.mysql.cj.jdbc.ClientPreparedStatement: insert into user values(3,'m','mm','30a3763982951c2b6b0a1cd853a17f2f','8575754','m',0) On: 2022/05/15 14:49:11
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='m' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/15 14:49:20
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='m' On: 2022/05/15 14:49:20
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='m' On: 2022/05/15 14:49:20
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/15 14:49:34
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (3,'Chicken Wings','30$',1) On: 2022/05/15 14:49:37
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO orders VALUES (0,4,1,'2022/05/15_14:49:41','No') On: 2022/05/15 14:49:39
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/15 14:49:42
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='moha' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/15 14:51:58
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='moha' On: 2022/05/15 14:51:58
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='moha' On: 2022/05/15 14:51:58
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user ORDER BY id DESC LIMIT 1 On: 2022/05/15 14:57:26
+com.mysql.cj.jdbc.ClientPreparedStatement: insert into user values(4,'test','test','80129d6f7d6506819175ca3952fd61d1','5655454','gaza',6) On: 2022/05/15 14:57:26
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='test' AND password='80129d6f7d6506819175ca3952fd61d1' or password ='1234' On: 2022/05/15 14:57:34
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='test' On: 2022/05/15 14:57:34
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='test' On: 2022/05/15 14:57:34
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/15 14:57:47
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (2,'Pizza','120$',7) On: 2022/05/15 14:57:49
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO orders VALUES (0,5,7,'2022/05/15_14:57:53','No') On: 2022/05/15 14:57:52
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/15 14:57:54
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user ORDER BY id DESC LIMIT 1 On: 2022/05/15 15:05:41
+com.mysql.cj.jdbc.ClientPreparedStatement: insert into user values(5,'anas','adcvewv','30a3763982951c2b6b0a1cd853a17f2f','545454454','a',11) On: 2022/05/15 15:05:41
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='anas' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/15 15:05:49
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='anas' On: 2022/05/15 15:05:49
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='anas' On: 2022/05/15 15:05:49
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (1,'Burger','50$',12) On: 2022/05/15 15:06:02
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/15 15:06:16
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='anas' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/15 15:07:01
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='anas' On: 2022/05/15 15:07:01
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='anas' On: 2022/05/15 15:07:01
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/15 15:07:16
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (2,'Pizza','120$',11) On: 2022/05/15 15:07:21
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/15 15:07:25
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO orders VALUES (0,0,11,'2022/05/15_15:07:29','No') On: 2022/05/15 15:07:28
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/15 15:07:31
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user WHERE name='ali' AND password='30a3763982951c2b6b0a1cd853a17f2f' or password ='123' On: 2022/05/15 16:29:25
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user WHERE name='ali' On: 2022/05/15 16:29:25
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE name='ali' On: 2022/05/15 16:29:25
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (1,'Burger','50$',0) On: 2022/05/15 16:29:32
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (8,'Knafeh','1200$',0) On: 2022/05/15 16:29:47
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO orders VALUES (0,6,0,'2022/05/15_16:29:51','No') On: 2022/05/15 16:29:49
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/15 16:29:53
+com.mysql.cj.jdbc.ClientPreparedStatement: select itemId,itemName,itemPrice from cart where cart_id = '0' On: 2022/05/15 16:30:08
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user ORDER BY id DESC LIMIT 1 On: 2022/05/15 16:39:44
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user WHERE id='6' On: 2022/05/15 16:39:44
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user ORDER BY id DESC LIMIT 1 On: 2022/05/15 16:42:28
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user ORDER BY cartId DESC On: 2022/05/15 16:42:28
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user ORDER BY id DESC LIMIT 1 On: 2022/05/15 16:43:21
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user ORDER BY cartId LIMIT 1 On: 2022/05/15 16:43:21
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user ORDER BY id DESC LIMIT 1 On: 2022/05/15 16:44:19
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from user ORDER BY cartId LIMIT 1 On: 2022/05/15 16:44:19
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user ORDER BY id DESC LIMIT 1 On: 2022/05/15 16:45:00
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user ORDER BY cartId DESC LIMIT 1 On: 2022/05/15 16:45:00
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user ORDER BY id DESC LIMIT 1 On: 2022/05/15 16:46:10
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user ORDER BY cartId DESC LIMIT 1 On: 2022/05/15 16:46:10
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user ORDER BY id DESC LIMIT 1 On: 2022/05/15 16:46:10
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user ORDER BY cartId DESC LIMIT 1 On: 2022/05/15 16:46:10
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/15 16:48:10
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/15 16:48:23
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (5,'Pasta','320$',0) On: 2022/05/15 16:48:27
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/15 16:56:21
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO orders VALUES (0,7,0,'2022/05/15_16:56:28','No') On: 2022/05/15 16:56:27
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/15 16:56:29
+com.mysql.cj.jdbc.ClientPreparedStatement: select itemId,itemName,itemPrice from cart where cart_id = '0' On: 2022/05/15 16:56:52
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/15 16:57:48
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user ORDER BY id DESC LIMIT 1 On: 2022/05/15 16:58:13
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user ORDER BY cartId DESC LIMIT 1 On: 2022/05/15 16:58:13
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (4,'Fries','80$',13) On: 2022/05/15 17:04:56
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (7,'Kabab','80$',13) On: 2022/05/15 17:04:59
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (8,'Knafeh','1200$',13) On: 2022/05/15 17:05:02
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO orders VALUES (0,8,13,'2022/05/15_17:05:08','No') On: 2022/05/15 17:05:05
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/15 17:05:10
+com.mysql.cj.jdbc.ClientPreparedStatement: select itemId,itemName,itemPrice from cart where cart_id = '13' On: 2022/05/15 17:05:52
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (6,'spaghetti','500$',1) On: 2022/05/15 17:09:21
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/15 17:09:25
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO orders VALUES (0,2,1,'2022/05/15_17:09:29','No') On: 2022/05/15 17:09:27
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/15 17:09:30
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (8,'Knafeh','1200$',6) On: 2022/05/15 17:10:38
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO orders VALUES (0,5,6,'2022/05/15_17:10:42','No') On: 2022/05/15 17:10:40
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/15 17:10:43
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user ORDER BY id DESC LIMIT 1 On: 2022/05/15 17:11:40
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user ORDER BY cartId DESC LIMIT 1 On: 2022/05/15 17:11:40
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user ORDER BY id DESC LIMIT 1 On: 2022/05/15 17:13:17
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user ORDER BY cartId DESC LIMIT 1 On: 2022/05/15 17:13:17
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/15 17:13:50
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (3,'Chicken Wings','30$',14) On: 2022/05/15 17:13:59
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/15 17:15:01
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/15 17:17:26
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/15 17:17:50
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (6,'spaghetti','500$',14) On: 2022/05/15 17:21:18
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO orders VALUES (0,14,'2022/05/15_17:21:23','No',0) On: 2022/05/15 17:21:21
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/15 17:21:24
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (7,'Kabab','80$',14) On: 2022/05/15 17:23:24
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO orders VALUES (0,14,'2022/05/15_17:23:28','No',8) On: 2022/05/15 17:23:27
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/15 17:23:29
+com.mysql.cj.jdbc.ClientPreparedStatement: select itemId,itemName,itemPrice from cart where cart_id = '14' On: 2022/05/15 17:23:35
+com.mysql.cj.jdbc.ClientPreparedStatement: select itemId,itemName,itemPrice from cart where cart_id = '14' On: 2022/05/15 17:24:41
+com.mysql.cj.jdbc.ClientPreparedStatement: select itemId,itemName,itemPrice from cart where cart_id = '14' On: 2022/05/15 17:25:56
+com.mysql.cj.jdbc.ClientPreparedStatement: delete from cart where itemId = 7  On: 2022/05/15 17:25:56
+com.mysql.cj.jdbc.ClientPreparedStatement: select itemId,itemName,itemPrice from cart where cart_id = '14' On: 2022/05/15 17:25:56
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/15 17:26:19
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user ORDER BY id DESC LIMIT 1 On: 2022/05/16 19:44:30
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user ORDER BY cartId DESC LIMIT 1 On: 2022/05/16 19:44:30
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (6,'spaghetti','500$',15) On: 2022/05/16 19:45:34
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (8,'Knafeh','1200$',15) On: 2022/05/16 19:45:38
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO orders VALUES (0,15,'2022/05/16_19:45:44','No',9) On: 2022/05/16 19:45:41
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/16 19:45:45
+com.mysql.cj.jdbc.ClientPreparedStatement: update user set  address = 'uk',email = 'moh1@hotmail.com' ,password = 'f47ebdd1ac211b217ca85335efcd91a2' where  id = 7  On: 2022/05/16 19:50:12
+com.mysql.cj.jdbc.ClientPreparedStatement: update user set  address = 'USA',email = 'new@gmail.com' ,password = '538e1bd07a7cd18fb4d64bc9652e92b1' where  id = 6  On: 2022/05/16 19:52:39
+com.mysql.cj.jdbc.ClientPreparedStatement: select itemId,itemName,itemPrice from cart where cart_id = '12' On: 2022/05/16 19:53:19
+com.mysql.cj.jdbc.ClientPreparedStatement: delete from cart where itemId = 1  On: 2022/05/16 19:53:19
+com.mysql.cj.jdbc.ClientPreparedStatement: select itemId,itemName,itemPrice from cart where cart_id = '12' On: 2022/05/16 19:53:19
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (1,'Burger','50$',2) On: 2022/05/17 18:14:42
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/17 18:15:33
+com.mysql.cj.jdbc.ClientPreparedStatement: select itemId,itemName,itemPrice from cart where cart_id = '2' On: 2022/05/17 18:16:45
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (8,'Knafeh','1200$',2) On: 2022/05/17 19:21:15
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/17 19:21:25
+com.mysql.cj.jdbc.ClientPreparedStatement: select itemId,itemName,itemPrice from cart where cart_id = '2' On: 2022/05/17 19:21:36
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/17 19:59:00
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO orders VALUES (0,2,'2022/05/17_19:59:09','No',2) On: 2022/05/17 19:59:04
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/17 19:59:10
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (7,'Kabab','80$',2) On: 2022/05/17 20:51:02
+com.mysql.cj.jdbc.ClientPreparedStatement: select itemId,itemName,itemPrice from cart where cart_id = '2' On: 2022/05/17 20:51:13
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/22 09:26:10
+com.mysql.cj.jdbc.ClientPreparedStatement: select itemId,itemName,itemPrice from cart where cart_id = '2' On: 2022/05/22 09:26:24
+com.mysql.cj.jdbc.ClientPreparedStatement: update user set  address = 'Japan',email = 'moha123@gmail.com' ,password = '80129d6f7d6506819175ca3952fd61d1' where  id = 2  On: 2022/05/22 10:20:36
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (6,'spaghetti','500$',2) On: 2022/05/22 10:21:45
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/22 10:21:54
+com.mysql.cj.jdbc.ClientPreparedStatement: select id from user ORDER BY id DESC LIMIT 1 On: 2022/05/22 10:58:55
+com.mysql.cj.jdbc.ClientPreparedStatement: select cartId from user ORDER BY cartId DESC LIMIT 1 On: 2022/05/22 10:58:55
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (1,'Burger','50$',16) On: 2022/05/22 10:59:45
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO cart VALUES (5,'Pasta','320$',16) On: 2022/05/22 10:59:56
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO orders VALUES (0,16,'2022/05/22_11:00:03','No',10) On: 2022/05/22 11:00:01
+com.mysql.cj.jdbc.ClientPreparedStatement: select * from orders On: 2022/05/22 11:00:05
+com.mysql.cj.jdbc.ClientPreparedStatement: select itemId,itemName,itemPrice from cart where cart_id = '16' On: 2022/05/22 11:00:43
+com.mysql.cj.jdbc.ClientPreparedStatement: delete from cart where itemId = 1  On: 2022/05/22 11:00:43
+com.mysql.cj.jdbc.ClientPreparedStatement: select itemId,itemName,itemPrice from cart where cart_id = '16' On: 2022/05/22 11:00:43
